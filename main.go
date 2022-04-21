@@ -19,6 +19,7 @@ func (m *Main) initServer() error {
 	}
 }
 
+// main func
 func main() {
 
 }
