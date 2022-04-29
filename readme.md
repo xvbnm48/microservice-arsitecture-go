@@ -1,4 +1,4 @@
-reference [golang](https://github.com/raycad/go-microservices/tree/master/src/movie-microservice) 
+reference from [golang](https://github.com/raycad/go-microservices/tree/master/src/movie-microservice) 
 
 Microservices itu adalah suatu framework Architecture yang dipakai sebagai model dalam pembuatan aplikasi cloud yang modern. Di dalam microservices setiap aplikasi di bangun sebagai sekumpulan service dan setiap layanan berjalan dalam processnya sendiri. Masing-masing dari aplikasi tersebut saling berkomunikasi melalu API (Application Programing Interface).
 
